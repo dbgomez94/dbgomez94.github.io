@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn Markdown: "https://www.markdowntutorial.com/"
+    - Resume: "https://drive.google.com/drive/folders/1jmQ9d5wM0x9C_lQgE6UXk7Jhs9wP6x95"
   Author's home: "https://deanattali.com"
 
 ################
@@ -87,8 +88,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
