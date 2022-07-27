@@ -12,7 +12,7 @@ I'm currently a 2nD PhD student. My advisor recently passed away, so I'm somewha
 
 * From Regression Analysis to Deep Learning: development of improved proxy measures of state-level household gun ownership
   * Authors: [David Gomez](https://scholar.google.com/citations?user=YmsZnXAAAAAJ&hl=en&oi=sra), [Zhaoyi Xu](https://scholar.google.com/citations?user=AlaqLgcAAAAJ&hl=en&oi=sra), [Joseph Saleh](https://scholar.google.com/citations?user=oewjyycAAAAJ&hl=en&oi=sra)
-  PDF{:target="_blank" .btn .btn-primary} Code{:target="_blank" .btn .btn-success} Slides{:target="_blank" .btn .btn-warning} Poster{:target="_blank" .btn .btn-info}
+  * <a><button name="button" style = "color: white" onclick="https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930202-6">PDF</button></a> 
 * Monte-Carlo value analysis of High-Throughput Satellites: value levers, tradeoffs, and implications for operators and investors
 
 ## Projects
