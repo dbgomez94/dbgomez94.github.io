@@ -6,12 +6,14 @@ subtitle: Machine Learning PhD Student
 
 ## Overview
 
-I'm currently a 2nD PhD student. My advisor recently passed away, so I'm somewhat of an orphan studnet looking for a new home. I was trained as an Aerospace Engineer, but soon fell in love with the field of data science and machine learning. My dream is to beceome a data scientist for social good. Towards this end, I've pursued a number of projects in the realm of public heath and social science.
+I'm currently a 2nD PhD student. My advisor recently passed away, so I'm somewhat of an orphan student looking for a new home. I was trained as an aerospace engineer, but soon fell in love with the field of data science and machine learning. My dream is to beceome a data scientist for social good. Towards this end, I've pursued a number of projects in the realm of public heath and social science.
 
 ## Publications
 
-* From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership
-* Monte-Carlo value analysis of High-Throughput Satellites: Value levers, tradeoffs, and implications for operators and investors
+* From Regression Analysis to Deep Learning: development of improved proxy measures of state-level household gun ownership
+  * Authors: [David Gomez](https://scholar.google.com/citations?user=YmsZnXAAAAAJ&hl=en&oi=sra), [Zhaoyi Xu](https://scholar.google.com/citations?user=AlaqLgcAAAAJ&hl=en&oi=sra), [Joseph Saleh](https://scholar.google.com/citations?user=oewjyycAAAAJ&hl=en&oi=sra)
+  PDF{:target="_blank" .btn .btn-primary} Code{:target="_blank" .btn .btn-success} Slides{:target="_blank" .btn .btn-warning} Poster{:target="_blank" .btn .btn-info}
+* Monte-Carlo value analysis of High-Throughput Satellites: value levers, tradeoffs, and implications for operators and investors
 
 ## Projects
 
@@ -20,9 +22,6 @@ I'm currently a 2nD PhD student. My advisor recently passed away, so I'm somewha
 
 ## Education
 
-* PhD, Georgia Institute of Techology
-  * Expected graduation: May 2025
-* MS, Georgia Institute of Technology
-  * May 2020
-* BS, Georgia Institute of Technology
-  * May 2018
+* PhD, Georgia Institute of Techology | ~ May 2025
+* M.S, Georgia Institute of Technology | May 2020
+* B.S, Georgia Institute of Technology | May 2018
