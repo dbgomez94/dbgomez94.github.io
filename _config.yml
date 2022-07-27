@@ -13,7 +13,7 @@
 title: David Gomez
 
 # Your name to show in the footer
-author: David Benjamin Gomez
+author: David Gomez
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,11 +21,9 @@ author: David Benjamin Gomez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn Markdown: "https://www.markdowntutorial.com/"
-    - Resume: "https://drive.google.com/drive/folders/1jmQ9d5wM0x9C_lQgE6UXk7Jhs9wP6x95"
-  # Author's home: "https://deanattali.com"
+  Blog: "blog"
+  Publications: 'publications'
+  Resume: "https://drive.google.com/drive/folders/1jmQ9d5wM0x9C_lQgE6UXk7Jhs9wP6x95"
 
 ################
 # --- Logo --- #

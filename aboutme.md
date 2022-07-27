@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: We've all got a story.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is David Gomez. I'm a 2nd year PhD student at Georgia Tech. I'm 27 years old. I have one beautiful wife, four sisters, and a sweet puppy named Lucy. 
 
 ### My story
 
