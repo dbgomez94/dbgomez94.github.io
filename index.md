@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: minimal
 title: David Gomez
 subtitle: Machine Learning PhD Student
 ---
 
 ## Overview
 
-I'm currently a 2nD PhD student. My advisor recently passed away, so I'm somewhat of an orphan student looking for a new home. I was trained as an aerospace engineer, but soon fell in love with the field of data science and machine learning. My dream is to beceome a data scientist for social good. Towards this end, I've pursued a number of projects in the realm of public heath and social science.
+I am a Machine Learning PhD Sutdent at Georgia Tech. I am interested in applying **machine learning for social good**. My primary research interests are ...
 
 ## Publications
 
