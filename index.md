@@ -36,7 +36,7 @@ _70th International Astronautical Congress (2019)_ \
   [[PDF]](http://iafastro.directory/iac/archive/browse/IAC-19/E3/3/49731/)
   [[CODE]](https://github.com/dbgomez94/high-throughput-satellites)
 
-## Relavent Projects
+## Relevent Projects
 
 **Machine learning for human trafficking: predicting types of trafficking and means of control** \
 _Term Project: Data and Visual Analytics (Spring 2022)_ \
