@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: David Gomez
 subtitle: Machine Learning PhD Student
 ---
