@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On an Improved Proxy for Gun Ownership
-subtitle: Story behind and syopsis of the journal article
+subtitle: Story behind and synopsis of journal article
 --- 
 
 **From Regression Analysis to Deep Learning: development of improved proxy measures of state-level household gun ownership** \
