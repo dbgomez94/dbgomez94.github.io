@@ -25,3 +25,4 @@ I am a Machine Learning PhD Sutdent at Georgia Tech. I am interested in applying
 * PhD, Georgia Institute of Techology | ~ May 2025
 * M.S, Georgia Institute of Technology | May 2020
 * B.S, Georgia Institute of Technology | May 2018
+
