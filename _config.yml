@@ -20,7 +20,7 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-CV: https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing
+CV: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
 
 ################
 # --- Logo --- #
@@ -28,7 +28,7 @@ CV: https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=s
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "assets/img/dark_headshot.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
