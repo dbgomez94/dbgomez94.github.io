@@ -36,14 +36,14 @@ _70th International Astronautical Congress (2019)_ \
   [[PDF]](http://iafastro.directory/iac/archive/browse/IAC-19/E3/3/49731/)
   [[CODE]](https://github.com/dbgomez94/high-throughput-satellites)
 
-## Relevent Projects
+## Relevant Projects
 
 **Machine learning for human trafficking: predicting types of trafficking and means of control** \
 _Term Project: Data and Visual Analytics (Spring 2022)_ \
   [_David Gomez_](https://scholar.google.com/citations?user=YmsZnXAAAAAJ&hl=en&oi=sra),
   [_Alexander Bendeck_](https://alexanderbendeck.github.io/projects.html),
   [_Kaylee Tian_](https://www.linkedin.com/in/kaylee-nianhan-tian/),
-  [_Patrick Li_](https://www.linkedin.com/in/patrick-li-0/),
+  [_Patrick Li_](https://www.linkedin.com/in/patrick-li-0/) \
   [[PDF]](https://drive.google.com/file/d/1ZF1bpdqYRzA3Kcm1SRkUFkqupeNLzdAy/view?usp=sharing)
   [[Poster]](https://drive.google.com/file/d/1z7QcypF5xcn1TSfJu9RjZayP8_fafuvX/view?usp=sharing)
   [[Video]](https://youtu.be/GltcIuAIdTc)
@@ -63,9 +63,8 @@ _Term Project: Accident Causation and System Safety (Fall 2019)_ \
   [[Poster]](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing)
   [[Slides]](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
 
-
 ## Education
 
-**PhD, Georgia Tech | Expected Graduation: May 2025** \
-**M.S, Georgia Tech | May 2020** \
-**B.S, Georgia Tech | May 2018**
+PhD, Georgia Tech (present) \
+M.S, Georgia Tech (2020) \
+B.S, Georgia Tech (2018)
