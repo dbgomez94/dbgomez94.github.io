@@ -48,13 +48,13 @@ social-network-links:
   email: "dbgomez94@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: daattali
+  github: "https://github.com/dbgomez94"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: https://www.linkedin.com/in/david-benjamin-gomez/
+ linkedin: "https://www.linkedin.com/in/david-benjamin-gomez/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -85,7 +85,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -99,7 +99,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
