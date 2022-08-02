@@ -6,7 +6,7 @@ subtitle: Machine Learning PhD Student
 
 ## Overview
 
-I am a Machine Learning PhD Sutdent at Georgia Tech. I received my BS and MS degrees in Aerospace Engineering from Georgia Tech during which my research focused on the fields of electric propulsion and satellite reliability. Throughout this time, I persued a medley of machine learning passion projects that spanned fields of public health, public policy, and social issues. This work left a permanent impression on my heart, so much so that after a year working as an aerospace engineer, I have returned to GT for my PhD in Machine Learning with the goal of applying **machine learning for social good**. 
+I am a Machine Learning PhD Sutdent at Georgia Tech. I received my BS and MS degrees in Aerospace Engineering from Georgia Tech during which my research focused on the fields of electric propulsion and satellite reliability. Throughout this time, I persued a medley of machine learning passion projects that spanned fields of public health, public policy, and social issues. This work left a permanent impression on my heart, so much so that after a year working as an aerospace engineer, I have returned to GT for my PhD in Machine Learning with the goal of applying **machine learning for social good**.
 
 ## Publications
 
