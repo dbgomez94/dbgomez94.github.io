@@ -11,6 +11,10 @@ html {
 }
 
 body {
+<<<<<<< HEAD
+=======
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+>>>>>>> 61b9f2b56c8a02f9234d152c1fdf0adfeb211944
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
@@ -28,9 +32,22 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  /*font-weight: 800;*/
+  font-weight: 500;  
   line-height: 1.1;
 }
+h1 {
+  font-size: 1.875rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.125rem;
+}
+h4 {
+  font-size: 1.0rem;
+/*
 h1 {
   font-size: 2.25rem;
 }
@@ -43,6 +60,7 @@ h3 {
 h4 {
   font-size: 1.125rem;
 }
+*/
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
