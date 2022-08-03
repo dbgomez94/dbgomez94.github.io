@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'avenir'; /*'Lora', 'Times New Roman', serif;*/
+  font-family: 'avenir next'; /*'Lora', 'Times New Roman', serif;*/
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,7 +27,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'town'; /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'avenir next'; /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 500;
   line-height: 1.1;
 }
