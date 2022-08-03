@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DAVID GOMEZ
+title: David Gomez
 subtitle: Machine Learning PhD Student
 ---
 
