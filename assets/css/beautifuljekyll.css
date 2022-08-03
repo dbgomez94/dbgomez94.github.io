@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'avenir next'; /*'Lora', 'Times New Roman', serif;*/
   font-size: 1.125rem;
-  font-weight: 375;
+  font-weight: 400;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -29,7 +29,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'avenir next'; /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-weight: 375; /* 800 */
+  font-weight: 400; /* 800 */
   line-height: 1.1;
 }
 h1 {
