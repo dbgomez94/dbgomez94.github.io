@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: David Gomez
+title: Homepage
 
 # Your name to show in the footer
 author: David Gomez
@@ -20,6 +20,7 @@ author: David Gomez
 ###############################################
 
 navbar-links:
+  Blog: ""
   CV: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -50,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dbgomez94@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   # github: daattali
   # twitter: daattali
@@ -100,13 +101,13 @@ url-pretty: "MyWebsite.com"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
