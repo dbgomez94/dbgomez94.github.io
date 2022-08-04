@@ -65,6 +65,6 @@ _Term Project: Accident Causation and System Safety (Fall 2019)_ \
 
 ## Education
 
-PhD, Georgia Tech (present) \
-M.S, Georgia Tech (2020) \
-B.S, Georgia Tech (2018)
+PhD, Machine Learning, Georgia Tech (present) \
+M.S, Aerospace Engineering, Georgia Tech (2020) \
+B.S. Aerospace Engineering, Georgia Tech (2018)
