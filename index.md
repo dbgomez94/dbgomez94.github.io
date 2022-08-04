@@ -45,9 +45,9 @@ _Term Project: Data and Visual Analytics (Spring 2022)_ \
   [_Kaylee Tian_](https://www.linkedin.com/in/kaylee-nianhan-tian/),
   [_Patrick Li_](https://www.linkedin.com/in/patrick-li-0/) \
   [[PDF]](https://drive.google.com/file/d/1ZF1bpdqYRzA3Kcm1SRkUFkqupeNLzdAy/view?usp=sharing)
-  [[Poster]](https://drive.google.com/file/d/1z7QcypF5xcn1TSfJu9RjZayP8_fafuvX/view?usp=sharing)
-  [[Video]](https://youtu.be/GltcIuAIdTc)
-  [[Website]](https://alexanderbendeck.shinyapps.io/human-trafficking-app/)
+  [[POSTER]](https://drive.google.com/file/d/1z7QcypF5xcn1TSfJu9RjZayP8_fafuvX/view?usp=sharing)
+  [[VIDEO]](https://youtu.be/GltcIuAIdTc)
+  [[WEBSITE]](https://alexanderbendeck.shinyapps.io/human-trafficking-app/)
 
 On electic propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design \
 _NASA Space Technology Research Fellow at JPL (Summer 2020)_ \
@@ -60,8 +60,8 @@ _Term Project: Accident Causation and System Safety (Fall 2019)_ \
   [_Jose Sanchez_](https://www.linkedin.com/in/jose-c-sanchez/),
   [_Danial Baum_](https://www.linkedin.com/in/daniel-baum-ae/) \
   [[PDF]](https://drive.google.com/file/d/1eBo4348ehcbSQ8zs2ny8W4vIRXymCLcg/view?usp=sharing)
-  [[Poster]](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing)
-  [[Slides]](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
+  [[POSTER]](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing)
+  [[SLIDES]](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
 
 ## Education
 
