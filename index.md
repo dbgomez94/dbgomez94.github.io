@@ -21,10 +21,10 @@ _Term Project: Data and Visual Analytics (Spring 2022)_ \
   [[VIDEO]](https://youtu.be/GltcIuAIdTc)
   [[WEBSITE]](https://alexanderbendeck.shinyapps.io/human-trafficking-app/)
 
-<!-- On electic propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design \
+On electic propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design \
 _NASA Space Technology Research Fellow at JPL (Summer 2020)_ \
   [_David Gomez_](https://scholar.google.com/citations?user=YmsZnXAAAAAJ&hl=en&oi=sra) \
-  [[PDF]](https://drive.google.com/file/d/13bFrEk7PkWAY2GqFmNS_l3zvok1wE9Wj/view?usp=sharing) -->
+  [[PDF]](https://drive.google.com/file/d/13bFrEk7PkWAY2GqFmNS_l3zvok1wE9Wj/view?usp=sharing)
 
 Challenging the inevitability of suicide: the effect of gun regulation on overall suicide rates and portfolio of preventative measures \
 _Term Project: Accident Causation and System Safety (Fall 2019)_ \
