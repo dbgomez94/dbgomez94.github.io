@@ -33,14 +33,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/Gomez_0187_Original (1).jpeg"
+avatar: "assets/img/wedding_headshot.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "assets/img/wedding_headshot.jpeg"
 
 
 #####################################
@@ -51,6 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dbgomez94@gmail.com"
+  linkedin: David Benjamin Gomez
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   # github: daattali
@@ -88,14 +89,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
+  linkedin: false
   twitter: false
   facebook: false
-  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -110,12 +111,12 @@ feed_show_tags: false
 post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: false
+edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -126,17 +127,34 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col:         "#E5E9F0" # "#EAEAEA"
+navbar-text-col:    "#2E3440" # "#404040"
+navbar-border-col:  "#D8DEE9" # "#DDDDDD"
+page-col:           "#ECEFF4" # "#FFFFFF"
+text-col:           "#2E3440" # "#404040"
+link-col:           "#88C0D0" # "#008AFF"
+hover-col:          "#81A1C1" # "#0085A1"
+footer-col:         "#E5E9F0" # "#EAEAEA"
+footer-text-col:    "#4C566A" # "#777777"
+footer-link-col:    "#2E3440" # "#404040"
+footer-hover-col:   "#81A1C1" # "#0085A1"
+
+# 'night_1': '#2E3440',
+# 'night_2': '#3B4252',
+# 'night_3': '#434C5E',
+# 'night_4': '#4C566A',
+# 'snow_1': '#D8DEE9',
+# 'snow_2': '#E5E9F0',
+# 'snow_3': '#ECEFF4',
+# 'frost_1': '#8FBCBB',
+# 'frost_2': '#88C0D0',
+# 'frost_3': '#81A1C1',
+# 'frost_4': '#5E81AC',
+# 'aurora_r': '#BF616A',
+# 'aurora_o': '#D08770',
+# 'aurora_y': '#EBCB8B',
+# 'aurora_g': '#A3BE8C',
+# 'aurora_p': '#B48EAD',
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
