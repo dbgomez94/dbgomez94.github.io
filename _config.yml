@@ -20,9 +20,7 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-  CV: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
-  Blog: "/_posts"
-  Books: "https://docs.google.com/spreadsheets/d/13_2bybAXPwmFKxd-Q8vsQVZkLaRmeHEo2FHgsH50x7k/edit?usp=sharing"
+  Resume: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
 
 ################
 # --- Logo --- #
@@ -102,10 +100,10 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: false
+post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
