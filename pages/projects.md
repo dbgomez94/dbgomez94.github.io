@@ -6,6 +6,8 @@ subtitle: A collection of my most recent projects
 
 ## 2021
 
+- [CubeSat Reliability Analysis](https://dbgomez94.github.io/2024-06-05-cubesat-reliability-analysis/)
+
 ## 2020
 
 - [A Foray into Uncertainty Analysis](https://dbgomez94.github.io/2024-06-05-uncertainty-analysis/)
