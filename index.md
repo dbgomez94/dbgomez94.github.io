@@ -1,7 +1,7 @@
 ---
 layout: home
-title: David Gomez
-subtitle: Machine Learning PhD Student
+title: Hi, I'm David!
+subtitle: Computer Science Master's Student at Georgia Tech
 ---
 
 ## Overview

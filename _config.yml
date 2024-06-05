@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Homepage
+title: David Benjamin Gomez
 
 # Your name to show in the footer
 author: David Gomez
@@ -21,11 +21,8 @@ author: David Gomez
 
 navbar-links:
   CV: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
+  Blog: "/_posts"
   Books: "https://docs.google.com/spreadsheets/d/13_2bybAXPwmFKxd-Q8vsQVZkLaRmeHEo2FHgsH50x7k/edit?usp=sharing"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
-  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
