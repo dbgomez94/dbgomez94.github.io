@@ -17,6 +17,3 @@ I was born,  not into luxury, nor poverty, but into adversity. And for that I th
 - 2021: Returned to Georgia Tech to pursue a PhD in Computational Science in Engineering.
 - 2022: My PhD advisor passed away. I decided to leave the program and pursue a Master's degree in Computer Science with a specialization in Machine Learning (MSCS-ML) at Georgia Tech.
 - 2024: In the Fall, I will graduate with my second Master's degree from Georgia Tech.
-
-### My interests
-I 
