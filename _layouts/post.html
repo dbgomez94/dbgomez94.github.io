@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
+{% include header.</ul>html type="post" %}
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
@@ -64,7 +64,8 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <ul class="pagination blog-pager">
+      <!-- COMMENTING THE PAGER BUTTONS OUT -->
+      <!-- <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
           <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">&larr; Previous Post</a>
@@ -75,7 +76,9 @@ layout: base
           <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">Next Post &rarr;</a>
         </li>
         {% endif %}
-      </ul>
+      </ul> -->
+      
+
       {% include comments.html %}
     </div>
   </div>
