@@ -21,10 +21,10 @@ author: David Gomez
 
 navbar-links:
   Education: "/pages/education"
-  Research: "/pages/research"
-  Work: "/pages/work"
-  Skills: "/pages/skills"
   Projects: "/pages/projects"
+  Research: "/pages/research"
+  Skills: "/pages/skills"
+  Work: "/pages/work"
 
 ################
 # --- Logo --- #

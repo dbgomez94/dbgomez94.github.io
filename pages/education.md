@@ -1,32 +1,31 @@
 ---
 layout: page
-title: Education
 ---
 
-## M.S. Computer Science
+# Education
+**M.S. Computer Science**
 - 2022-2024
 - Georgia Institute of Technoloy, Atlanta GA
 
-## M.S. Aerospace Engineering
+**M.S. Aerospace Engineering**
 - 2018-2020
 - Georgia Institute of Technoloy, Atlanta GA
 
-## B.S. Aerospace Engineering
+**B.S. Aerospace Engineering**
 - 2015-2018
 - Georgia Institute of Technoloy, Atlanta GA
 
 
-# Relevant Coursework
-## Computer Science
+## Coursework
+**Computer Science**
 - Machine Learning
 - Regression Analysis
 - Deep Learning
 - Artificial Intelligence
 - Data and Visual Analytics
 - Computational Data Analysis
-- Convex Optimization
 
-## Aerospace Engineering
+**Aerospace Engineering**
 - Accident Causation and System Safety
 - Electric Propulsion
 - Rocket Propulsion
