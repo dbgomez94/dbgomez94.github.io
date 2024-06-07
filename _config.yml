@@ -20,9 +20,10 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-  Resume: "https://drive.google.com/file/d/1MN7icxrGkiz8uqhuu03gI034AogSLLcN/view?usp=sharing"
-  Projects: "/pages/projects"
-  About Me: "/pages/aboutme"
+  Education: "/pages/education"
+  Research Experience: "/pages/research"
+  Work Experience: "/pages/work"
+  Skills: "/pages/skills"
 
 ################
 # --- Logo --- #
