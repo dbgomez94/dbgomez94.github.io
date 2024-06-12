@@ -1,7 +1,7 @@
 ---
 layout: home
-title: David Benjamin Gomez
-subtitle: Master's of Science in Computer Science with Specializaiton in Machine Learning
+title: David B. Gomez
+subtitle: Applying Machine Learning for Social Good
 ---
 
 ## Overview

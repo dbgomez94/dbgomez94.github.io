@@ -20,9 +20,10 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-  Projects: "/pages/projects"
-  Research: "/pages/research"
-  Work: "/pages/work"
+  Experience:
+    - Research: "/pages/research"
+    - Projects: "/pages/projects"
+    - Work: "/pages/work"
   Education: "/pages/education"
   Skills: "/pages/skills"
 
