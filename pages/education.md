@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Education
+## Degrees
 **M.S. Computer Science**
 - 2022-2024
 - Georgia Institute of Technoloy, Atlanta GA
@@ -19,11 +19,11 @@ layout: page
 ## Coursework
 **Computer Science**
 - Machine Learning
-- Regression Analysis
 - Deep Learning
 - Artificial Intelligence
 - Data and Visual Analytics
 - Computational Data Analysis
+- Regression Analysis
 
 **Aerospace Engineering**
 - Accident Causation and System Safety
