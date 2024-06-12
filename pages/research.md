@@ -10,9 +10,9 @@ layout: page
 *Georgia Institute of Technology, Atlanta, GA* \
 *August 2022 - May 2024*
 - Utilized social media data and the tools of machine learning to conduct several studies surrounding individual and group mental health.
-  - Collected Twitter data from Twitter's APIs and utilized unsupervised timeseries clustering techniques to identify common temporal language patterns in tweets following a dislcosure of suicidality.
-  - Collected Reddit data from Reddit's APIs and utilized the Natural Language Processing and Deep Learning to differentiate language use across r/depression, r/suicidewatch, and r/stopselfharm.
-  - Collected Twitter data from Twitter's APIs and utilized controlled linear regression models and statistical tests to argue that Americans have become desensitized to mass shootings.
+- Collected Twitter (now X) data from Twitter's APIs and utilized unsupervised timeseries clustering techniques to identify common temporal language patterns in tweets following a dislcosure of suicidality.
+- Collected Reddit data from Reddit's APIs and utilized the Natural Language Processing and Deep Learning to differentiate language use across r/depression, r/suicidewatch, and r/stopselfharm.
+- Collected Twitter data from Twitter's APIs and utilized controlled linear regression models and statistical tests to argue that Americans have become desensitized to mass shootings.
 
 **Graduate Research Assistant** \
 *Space Systems Design Lab* \

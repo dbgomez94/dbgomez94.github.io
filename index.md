@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Hi, I'm David!
-subtitle: Computer Science Master's Student at Georgia Tech
+title: David Benjamin Gomez
+subtitle: Master's of Science in Computer Science with Specializaiton in Machine Learning
 ---
 
 ## Overview

@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: David Benjamin Gomez
+title: Homepage
 
 # Your name to show in the footer
 author: David Gomez
@@ -20,11 +20,11 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-  Education: "/pages/education"
   Projects: "/pages/projects"
   Research: "/pages/research"
-  Skills: "/pages/skills"
   Work: "/pages/work"
+  Education: "/pages/education"
+  Skills: "/pages/skills"
 
 ################
 # --- Logo --- #
