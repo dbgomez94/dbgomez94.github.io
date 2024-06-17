@@ -5,12 +5,17 @@ title: Projects & Publications
 
 ## Projects
 
-Affective Desensitization to Public Mass Shootings on Social Media
-*Tern Project: Social Computing (Spring 2023)
+
+Patterns of Suicide Disclosure on Social Media: A timeseries clustering approach
+*Research Project* (Summer 2023)
+#TODO 
 
 Identifying Linguistic Characteristers that Differentiate Mental Health Forums on Reddit
 *Term Project: Deep Learning (Fall 2023)*
+#TODO
 
+Affective Desensitization to Public Mass Shootings on Social Media
+*Tern Project: Social Computing (Spring 2023)
 #TODO
 
 Machine learning for human trafficking: predicting types of trafficking and means of control \

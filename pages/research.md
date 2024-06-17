@@ -3,8 +3,6 @@ layout: page
 title: Research Experience
 ---
 
-# Research Experience
-
 **Graduate Research Assistant** \
 *Social Dynamics and Wellbeing Lab* \
 *Georgia Institute of Technology, Atlanta, GA* \

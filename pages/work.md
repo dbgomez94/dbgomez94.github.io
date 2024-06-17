@@ -3,8 +3,6 @@ layout: page
 title: Work Experience
 ---
 
-# Work Experience
-
 **Research and Development Engineer** \
 *Busek Space Propulsion Systems, Inc., Natick, MA* \
 *August 2020 - August 2021*
