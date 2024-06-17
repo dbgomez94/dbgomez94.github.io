@@ -26,10 +26,6 @@ navbar-links:
     - Work: "/pages/work"
   Education: "/pages/education"
   Skills: "/pages/skills"
-  Connect:
-    - Email: dbgomez94@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/david-benjamin-gomez/
-    - GitHub: https://github.com/dbgomez94
 
 
 ################
@@ -55,11 +51,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   email: "dbgomez94@gmail.com"
-  # linkedin: David Benjamin Gomez
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  linkedin: https://www.linkedin.com/in/david-benjamin-gomez/
+  github: https://github.com/dbgomez94
+  # google-scholar: https://scholar.google.com/citations?hl=en&user=YmsZnXAAAAAJ&view_op=list_works&gmla=AOAOcb1AJrIYk65GEmSmjKXt6JXOGA2TvSDLOBixcVKZSpGJmowT1WXqCsCPHEK07pcjVlfeCNXzqEvGRCQ8EVi-
   # facebook: deanattali
-  # github: daattali
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
@@ -79,7 +76,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
