@@ -1,8 +1,9 @@
 ---
+title: Education & Coursework
 layout: page
 ---
 
-## Degrees
+## Education
 **M.S. Computer Science**
 - 2022-2024
 - Georgia Institute of Technoloy, Atlanta GA

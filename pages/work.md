@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Work Experience
+title: Work Experience
 ---
 
 # Work Experience

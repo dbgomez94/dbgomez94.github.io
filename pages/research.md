@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Research Experience
+title: Research Experience
 ---
 
 # Research Experience
