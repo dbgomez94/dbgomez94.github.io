@@ -567,7 +567,7 @@ footer .footer-custom-content {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'avenir next' /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-size: 0.9375rem;
   margin: 1.875rem 0;
 }
@@ -614,7 +614,7 @@ footer .footer-custom-content {
 }
 
 #full-tags-list {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'avenir next' /* 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
 }
 
 #full-tags-list .tag-entry {

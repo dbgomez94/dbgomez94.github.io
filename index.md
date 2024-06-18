@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Hi, I'm David Gomez
-subtitle: Graduate Student | MSCS-ML @ Georgia Tech
+subtitle: Graduate Student in MSCS-ML at Georgia Tech
 ---
 
-# Overview
+I develop **machine learning models** for social good. 
 
 Soon-to-be MSCS-ML graduate from Georgia Tech. I'm passionate about using the tools of machine learning to promote the wellfare of humanity. 
 
