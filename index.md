@@ -1,8 +1,12 @@
 ---
 layout: home
-title: Hi, I'm David Gomez
-subtitle: Graduate Student in MSCS-ML at Georgia Tech
+# title: Hi, I'm David Gomez
+# subtitle: Graduate Student in MSCS-ML at Georgia Tech
 ---
+
+# Hi, I'm David Gomez
+*MSCS-ML at Georgia Tech*
+
 
 I develop **machine learning models** for social good. 
 
