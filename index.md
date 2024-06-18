@@ -1,7 +1,7 @@
 ---
 layout: home
-title: David B. Gomez
-subtitle: Applying Machine Learning for Social Good
+title: Hi, I'm David Gomez
+subtitle: Graduate Student | MSCS-ML @ Georgia Tech
 ---
 
 # Overview
