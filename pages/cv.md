@@ -189,7 +189,7 @@ Introduction Programming in (CSCI 1301)
 CO-PIs: Dr. Munmun De Choudhury, Dr. Candice Biernesser
 
 2022-2024 \
-[**ETUDES: Enhancing Triage and Utilization for Depression and Emergent Suicidality**](https://www.etudescenter.org/whoweare)
+[**ETUDES: Enhancing Triage and Utilization for Depression and Emergent Suicidality**](https://www.etudescenter.org/whoweare) \
 CO-PIs: Dr. Munmun De Choudhury, Dr. Candice Biernesser
 
 2021-2022 \
@@ -214,7 +214,7 @@ CO-PIs: Dr. Mitchell L.R. Walker, Dr. Robert Lobbia
 
 [**Surjeet Paintal**](https://www.linkedin.com/in/surjeet-paintal-5bba6a/) \
 *Senior Research Engineer* \
-[Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA \
+[Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA
 
 
 [**Dr. Robert Lobbia**](https://www.linkedin.com/in/lobbia/) \
