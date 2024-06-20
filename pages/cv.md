@@ -1,9 +1,8 @@
 ---
 layout: page
-title: David B. Gomez
+title: David Benjamin Gomez
 ---
 
-# David Benjamin Gomez
 ## Education
 2022-2024 \
 **M.S. in Computer Science**, *Highest Honors* \
