@@ -92,7 +92,7 @@ For "*HPEPL's Motivation for Mass Flow Calibration*"
 ### Journal Articles
 
 **From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership** \
-Patterns: Cell Press (2020) \
+Patterns: Cell Press (2021) \
 [**David Gomez**](https://dbgomez94.github.io/), 
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 

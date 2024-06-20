@@ -20,12 +20,11 @@ author: David Gomez
 ###############################################
 
 navbar-links:
+  CV: "/pages/cv"
   Projects: "/pages/projects"
-  Experience:
-    - Research: "/pages/research"
-    - Work: "/pages/work"
-  Education: "/pages/education"
-  Skills: "/pages/skills"
+  Other: 
+    - Blog: "/blog"
+    - Books: "/pages/books"
 
 
 ################
@@ -51,7 +50,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true
   email: "dbgomez94@gmail.com"
   linkedin: https://www.linkedin.com/in/david-benjamin-gomez/
   github: https://github.com/dbgomez94
@@ -91,10 +90,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  linkedin: false
-  twitter: false
-  facebook: false
-  vk: false
+  email: true
+  linkedin: true
+  github: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -104,10 +102,10 @@ share-links-active:
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
@@ -129,18 +127,46 @@ navbar-var-length: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col:         "#E5E9F0" # "#EAEAEA"
-navbar-text-col:    "#2E3440" # "#404040"
-navbar-border-col:  "#D8DEE9" # "#DDDDDD"
-page-col:           "#ECEFF4" # "#FFFFFF"
-text-col:           "#2E3440" # "#404040"
-link-col:           "#88C0D0" # "#008AFF"
-hover-col:          "#81A1C1" # "#0085A1"
-footer-col:         "#E5E9F0" # "#EAEAEA"
-footer-text-col:    "#4C566A" # "#777777"
-footer-link-col:    "#2E3440" # "#404040"
-footer-hover-col:   "#81A1C1" # "#0085A1"
+# original
+# navbar-col:         "#EAEAEA"
+# navbar-text-col:    "#404040"
+# navbar-border-col:  "#DDDDDD"
+# page-col:           "#FFFFFF"
+# text-col:           "#404040"
+# link-col:           "#008AFF"
+# hover-col:          "#0085A1"
+# footer-col:         "#EAEAEA"
+# footer-text-col:    "#777777"
+# footer-link-col:    "#404040"
+# footer-hover-col:   "#0085A1"
 
+# light theme
+navbar-col:         "#E5E9F0"
+navbar-text-col:    "#2E3440"
+navbar-border-col:  "#D8DEE9"
+page-col:           "#ECEFF4"
+text-col:           "#2E3440"
+link-col:           "#88C0D0"
+hover-col:          "#81A1C1"
+footer-col:         "#E5E9F0"
+footer-text-col:    "#4C566A"
+footer-link-col:    "#2E3440"
+footer-hover-col:   "#81A1C1"
+
+# dark
+# navbar-col:         "#E5E9F0"
+# navbar-text-col:    "#2E3440"
+# navbar-border-col:  "#D8DEE9"
+# page-col:           "#ECEFF4"
+# text-col:           "#2E3440"
+# link-col:           "#88C0D0"
+# hover-col:          "#81A1C1"
+# footer-col:         "#E5E9F0"
+# footer-text-col:    "#4C566A"
+# footer-link-col:    "#2E3440"
+# footer-hover-col:   "#81A1C1"
+
+# palette:
 # 'night_1': '#2E3440',
 # 'night_2': '#3B4252',
 # 'night_3': '#434C5E',
