@@ -22,9 +22,8 @@ author: David Gomez
 navbar-links:
   CV: "/pages/cv"
   Projects: "/pages/projects"
-  Other: 
-    - Blog: "/blog"
-    - Books: "/pages/books"
+  Education: "/pages/education"
+  Skills: "/pages/skills"
 
 
 ################
