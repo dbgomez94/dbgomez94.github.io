@@ -209,26 +209,29 @@ CO-PIs: Dr. Mitchell L.R. Walker, Dr. Robert Lobbia
 
 [**Dr. Munmun De Choudhury**](http://www.munmund.net/index.html) \
 *Associate Professor* \
+School of Interactive Computing \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
 
 [**Dr. Joseph Homer Saleh**](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
 *Associate Professor* \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 [Space Systems Design Lab](https://ssdl.gatech.edu/)
 
 [**Surjeet Paintal**](https://www.linkedin.com/in/surjeet-paintal-5bba6a/) \
 *Senior Research Engineer* \
+Electric Propulsion Group \
 [Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA
 
 [**Dr. Robert Lobbia**](https://www.linkedin.com/in/lobbia/) \
 *Staff Engineer* \
-[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) \
-[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl)
+Electric Propulsion Group \
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA
 
 [**Dr. Mitchell L.R. Walker**](https://mwalker.gatech.edu/) \
 *Full Professor* \
-[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-[High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+School of Aerospace Engineering \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA
 
 
