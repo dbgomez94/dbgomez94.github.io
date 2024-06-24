@@ -173,8 +173,8 @@ Fall 2021 \
 *Accident Causation and System Safety (AE 4803)*
 
 Spring 2019 \
-[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 **Graduate Teaching Assistant** \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 *Introduction to Experimental Methods in Aerospace Engineering (AE 2610)*
 
 Fall 2018 \
@@ -184,11 +184,8 @@ Fall 2018 \
 
 Spring 2018 \
 **Supplementary Instructor** \
-Georgia Southwestern State University, Americus, GA \
-Introduction Programming in (CSCI 1301)
-
-
-
+[Georgia Southwestern State University](https://www.gsw.edu/), Americus, GA \
+*Introduction Programming in (CSCI 1301)*
 
 ## Grants and Funding
 
@@ -223,7 +220,6 @@ CO-PIs: Dr. Mitchell L.R. Walker, Dr. Robert Lobbia
 [**Surjeet Paintal**](https://www.linkedin.com/in/surjeet-paintal-5bba6a/) \
 *Senior Research Engineer* \
 [Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA
-
 
 [**Dr. Robert Lobbia**](https://www.linkedin.com/in/lobbia/) \
 *Staff Engineer* \
