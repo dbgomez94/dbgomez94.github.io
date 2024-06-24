@@ -9,7 +9,7 @@ _Patterns: Cell Press (2021)_ \
   [_David Gomez_](https://scholar.google.com/citations?user=YmsZnXAAAAAJ&hl=en&oi=sra),
   [_Zhaoyi Xu_](https://scholar.google.com/citations?user=AlaqLgcAAAAJ&hl=en&oi=sra),
   [_Joseph Saleh_](https://scholar.google.com/citations?user=oewjyycAAAAJ&hl=en&oi=sra) \
-  [[PDF]](https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930202-6)
+  [[PDF]](https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930202-6) |
   [[CODE]](https://github.com/dbgomez94/gun-ownership-proxy)
 
 This work stemmed from a term project for a course tought by my late advisor, Dr. Joseph Saleh. For this project, which is entitled, Challenging the inevitability of suicide, my teammates and I examined the state-level relationship between gun laws and suicides. We used the tools of machine learning, specifially linear regression, to argue that methods to reduce suicides by one means do not exacerbate suicides by other methods. The basic idea is that suicide attempts by firearm are far more lethul than by other methods, and by putting certain barriers in place to prevent suicide attempts by firearm (e.g., gun laws), overall suicide rates drop. This was a topic that was very close to my heart, and when we presented our work to my advisor, he encouraged us to persue a journal article with him.
