@@ -62,25 +62,25 @@ Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatec
 ## Industry Experience
 2020-2021 \
 **Research and Development Engineer** \
-[Electric Propulsion Group](https://www.busek.com/) \
+Electric Propulsion Group \
 [Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA \
 Mentor(s): [Surjeet Paintal](https://www.linkedin.com/in/surjeet-paintal-5bba6a/), [Samual Sawyer](https://www.linkedin.com/in/samuel-sawyer-b8ab69a4/), Mike Robin
 
 Summer 2020 \
 **Graduate Electric Propulsion Intern** \
-[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+Electric Propulsion Group \
 [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 Summer 2019 \
 **Electric Propulsion Intern** \
-[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+Electric Propulsion Group \
 [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 Summer 2018 \
 **Electric Propulsion Intern** \
-[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+Electric Propulsion Group \
 [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
