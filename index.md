@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Hi, I'm David Gomez
-subtitle: Open for Opportunities!
+subtitle: Open for Opportunities
 ---
 
 I'm a Data Scientist and Machine Learning Engineer passionate about applying the tools of Machine Learning for Social Good.

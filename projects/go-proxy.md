@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 # From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership
