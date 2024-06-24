@@ -22,9 +22,7 @@ author: David Gomez
 navbar-links:
   CV: "/pages/cv"
   Education: "/pages/education"
-  Experience:
-    - Research: "/pages/research"
-    - Industry: "/pages/industry"
+  Experience: "/pages/experience"
   Projects: "/pages/projects"
 
 
