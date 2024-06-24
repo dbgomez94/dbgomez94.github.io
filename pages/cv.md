@@ -154,38 +154,45 @@ April 2018 \
 ## Teaching
 Spring 2023 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Experiments in Fluids and Solid Mechanics (AE 3610)*
+Course: *Experiments in Fluids and Solid Mechanics (AE 3610)*
 
 Fall 2022 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Spaceflight Operations (AE 4361)*
+Course: *Spaceflight Operations (AE 4361)*
 
 Summer 2022 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Dynamics (AE 2220)*
+Course: *Dynamics (AE 2220)*
 
 Fall 2021 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Accident Causation and System Safety (AE 4803)*
+Course: *Accident Causation and System Safety (AE 4803)*
 
 Spring 2019 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Introduction to Experimental Methods in Aerospace Engineering (AE 2610)*
+Course: *Introduction to Experimental Methods in Aerospace Engineering (AE 2610)*
 
 Fall 2018 \
 **Graduate Teaching Assistant** \
+School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-*Experiments in Fluids and Solid Mechanics (AE 3610)*
+Course: *Experiments in Fluids and Solid Mechanics (AE 3610)*
 
 Spring 2018 \
 **Supplementary Instructor** \
+College of Business and Computing \
 [Georgia Southwestern State University](https://www.gsw.edu/), Americus, GA \
-*Introduction Programming in (CSCI 1301)*
+Course: *Introduction Programming in (CSCI 1301)*
 
 ## Grants and Funding
 
