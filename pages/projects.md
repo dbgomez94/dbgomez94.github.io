@@ -40,7 +40,7 @@ _Term Project: Accident Causation and System Safety (Fall 2019)_ \
 
 ## Publications
 
-[From Regression Analysis to Deep Learning: development of improved proxy measures of state-level household gun ownership](/projects/go-proxy.md) \
+[From Regression Analysis to Deep Learning: development of improved proxy measures of state-level household gun ownership](/projects/go-proxy) \
 _Patterns: Cell Press (2020)_ \
   **David Gomez**, Zhaoyi Xu, Joseph Saleh \
   [[PAPER]](https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930202-6)
