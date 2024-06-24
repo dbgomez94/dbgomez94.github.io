@@ -1,6 +1,6 @@
 ---
 layout: page
-title: David Benjamin Gomez
+title: David Gomez
 ---
 
 ## Education
@@ -32,48 +32,56 @@ Affiliations: [NCAA D2 Men's Soccer Team](https://www.gswcanes.com/sports/msoc/2
 
 ## Research Experience
 2022-2024 \
-[**Georgia Institute of Technology**](https://www.gatech.edu/), Atlanta, GA \
-Graduate Research Assistant, School of Interactive Computing \
+**Graduate Research Assistant** \
+School of Interactive Computing \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Advisor: [Munmun De Choudhury](http://www.munmund.net/index.html) \
 Member of the [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
 
 2021-2022 \
-[**Georgia Institute of Technology**](https://www.gatech.edu/), Atlanta, GA \
-Graduate Research Assistant, School of Computational Science and Engineering \
-Advisor: [**Dr. Joseph Homer Saleh**](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
+**Graduate Research Assistant** \
+School of Aerospace Engineering \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
+Advisor: [Dr. Joseph Homer Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
 Member of the [Space Systems Design Lab](https://ssdl.gatech.edu/)
 
 2018-2020 \
-[**Georgia Institute of Technology**](https://www.gatech.edu/), Atlanta, GA \
-Graduate Research Assistant, School of Aerospace Engineering \
-[**Dr. Mitchell L.R. Walker**](https://mwalker.gatech.edu/) \
+**Graduate Research Assistant** \
+School of Aerospace Engineering \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
 Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
 
 2017-2018 \
-[**Georgia Institute of Technology**](https://www.gatech.edu/), Atlanta, GA \
-Undergraduate Research Assistant, School of Aerospace Engineering \
-[**Dr. Mitchell L.R. Walker**](https://mwalker.gatech.edu/) \
+**Undergraduate Research Assistant** \
+School of Aerospace Engineering \
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
 Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
 
 ## Industry Experience
 2020-2021 \
-[**Busek Space Propulsion and Systems**](https://www.busek.com/), Natick, MA \
-Research and Development Engineer, Electric Propulsion Group \
+**Research and Development Engineer** \
+[Electric Propulsion Group](https://www.busek.com/) \
+[Busek Space Propulsion and Systems](https://www.busek.com/), Natick, MA \
 Mentor(s): [Surjeet Paintal](https://www.linkedin.com/in/surjeet-paintal-5bba6a/), [Samual Sawyer](https://www.linkedin.com/in/samuel-sawyer-b8ab69a4/), Mike Robin
 
 Summer 2020 \
-[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/) \
-Graduate Electric Propulsion Intern, [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+**Graduate Electric Propulsion Intern** \
+[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 Summer 2019 \
-[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/) \
-Electric Propulsion Intern, [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+**Electric Propulsion Intern** \
+[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 Summer 2018 \
-[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/) \
-Electric Propulsion Intern, [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+**Electric Propulsion Intern** \
+[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Pasadena, CA \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 ## Honors and Awards
@@ -96,7 +104,7 @@ Patterns: Cell Press (2021) \
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \
-[Project](projects/go-proxy.md) |
+[Project](pages/projects/2022-07-26-go-proxy.md) |
 [Code](https://github.com/dbgomez94/gun-ownership-proxy) |
 [DOI](https://www.cell.com/patterns/fulltext/S2666-3899(20)30202-6) |
 [PDF](pdfs/go-proxy.pdf)

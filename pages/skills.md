@@ -9,6 +9,7 @@ title: Skills
 - MATLAB
 - LaTeX
 - STATA
+- R
 
 ## Tools / Packages
 - NumPy
@@ -21,3 +22,4 @@ title: Skills
 - Hugging Face
 - Linux
 - Git
+  

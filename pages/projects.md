@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Projects & Publications
+title: Projects
 ---
 
 ## Projects
 
-
-Patterns of Suicide Disclosure on Social Media: A timeseries clustering approach
+Patterns of Suicide Disclosure on Social Media: A time series clustering approach
 *Research Project* (Summer 2023)
 #TODO 
 
-Identifying Linguistic Characteristers that Differentiate Mental Health Forums on Reddit
+Identifying Linguistic Characteristics that Differentiate Mental Health Forums on Reddit
 *Term Project: Deep Learning (Fall 2023)*
 #TODO
 
