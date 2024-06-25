@@ -45,7 +45,7 @@ _Patterns: Cell Press (2020)_ \
   [[PAPER]](https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930202-6)
   [[CODE]](https://github.com/dbgomez94/gun-ownership-proxy)
 
-[**Monte-Carlo value analysis of High-Throughput Satellites: value levers, tradeoffs, and implications for operators and investors**]() \
+[**Monte-Carlo value analysis of High-Throughput Satellites: value levers, tradeoffs, and implications for operators and investors**](2020-05-01-hts-npv) \
 _PLOS ONE (2019)_ \
   Fan Geng, **David Gomez**, Yue Guan, Joseph Saleh \
   [[PAPER]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0222133&type=printable)
