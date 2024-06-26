@@ -80,7 +80,7 @@ PLOS One (2019) \
 [DOI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222133) |
 [PDF](pdfs/hts.pdf)
 
-[**Understanding High-Throughput Satellites: Market disruptions, technology, and value analysis**](/pages/projects/2020-05-01-hts-conference.md) \
+[**Understanding High-Throughput Satellites: Market disruptions, technology, and value analysis**](2020-05-01-hts-conference) \
 70th International Astronautical Congress (2019) \
 [Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
 [**David Gomez**](https://dbgomez94.github.io/), 
