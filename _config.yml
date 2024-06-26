@@ -139,39 +139,39 @@ navbar-var-length: true
 # footer-link-col:    "#404040"
 # footer-hover-col:   "#0085A1"
 
-# # light theme
-# navbar-col:         "#E5E9F0"
-# navbar-text-col:    "#3B4252"
-# navbar-border-col:  "#E5E9F0"
+# light theme
+navbar-col:         "#E5E9F0"
+navbar-text-col:    "#3B4252"
+navbar-border-col:  "#E5E9F0"
 
-# page-col:           "#ECEFF4"
-# text-col:           "#2E3440"
+page-col:           "#ECEFF4"
+text-col:           "#2E3440"
 
-# link-col:           "#81A1C1"
-# hover-col:          "#88C0D0"
-
-# footer-col:         "#E5E9F0"
-# footer-text-col:    "#3B4252"
-
-# footer-link-col:    "#4C566A"
-# footer-hover-col:   "#88C0D0"
-
-# dark
-navbar-col:         "#3B4252"
-navbar-text-col:    "#E5E9F0"
-navbar-border-col:  "#3B4252"
-
-page-col:           "#2E3440"
-text-col:           "#ECEFF4"
-
-link-col:           "#88C0D0"
+link-col:           "#4C566A"
 hover-col:          "#8FBCBB"
 
-footer-col:         "#3B4252"
-footer-text-col:    "#E5E9F0"
+footer-col:         "#E5E9F0"
+footer-text-col:    "#3B4252"
 
-footer-link-col:    "#88C0D0"
+footer-link-col:    "#4C566A"
 footer-hover-col:   "#8FBCBB"
+
+# # dark
+# navbar-col:         "#3B4252"
+# navbar-text-col:    "#E5E9F0"
+# navbar-border-col:  "#3B4252"
+
+# page-col:           "#2E3440"
+# text-col:           "#ECEFF4"
+
+# link-col:           "#88C0D0"
+# hover-col:          "#8FBCBB"
+
+# footer-col:         "#3B4252"
+# footer-text-col:    "#E5E9F0"
+
+# footer-link-col:    "#88C0D0"
+# footer-hover-col:   "#8FBCBB"
 
 
 # palette:
