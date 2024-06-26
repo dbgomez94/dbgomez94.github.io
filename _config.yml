@@ -148,13 +148,13 @@ page-col:           "#ECEFF4"
 text-col:           "#2E3440"
 
 link-col:           "#4C566A"
-hover-col:          "#8FBCBB"
+hover-col:          "#5E81AC"
 
 footer-col:         "#E5E9F0"
 footer-text-col:    "#3B4252"
 
 footer-link-col:    "#4C566A"
-footer-hover-col:   "#8FBCBB"
+footer-hover-col:   "#5E81AC"
 
 # # dark
 # navbar-col:         "#3B4252"
