@@ -164,14 +164,14 @@ navbar-border-col:  "#3B4252"
 page-col:           "#2E3440"
 text-col:           "#ECEFF4"
 
-link-col:           "#81A1C1"
-hover-col:          "#88C0D0"
+link-col:           "#88C0D0"
+hover-col:          "#8FBCBB"
 
 footer-col:         "#3B4252"
 footer-text-col:    "#E5E9F0"
 
-footer-link-col:    "#81A1C1"
-footer-hover-col:   "#88C0D0"
+footer-link-col:    "#88C0D0"
+footer-hover-col:   "#8FBCBB"
 
 
 # palette:
