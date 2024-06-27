@@ -145,15 +145,15 @@ navbar-text-col:    "#3B4252"
 navbar-border-col:  "#E5E9F0"
 
 page-col:           "#ECEFF4"
-text-col:           "#2E3440"
+text-col:           "#4C566A"
 
-link-col:           "#4C566A"
+link-col:           "#2E3440"
 hover-col:          "#5E81AC"
 
 footer-col:         "#E5E9F0"
 footer-text-col:    "#3B4252"
 
-footer-link-col:    "#4C566A"
+footer-link-col:    "#2E3440"
 footer-hover-col:   "#5E81AC"
 
 # # dark
