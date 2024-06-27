@@ -23,6 +23,7 @@ navbar-links:
   Education: "/pages/education"
   Experience: "/pages/experience"
   Projects: "/pages/projects"
+  Resume: "/pdfs/resume.pdf"
   CV: "/pages/cv"
 
 

@@ -100,7 +100,7 @@ For "*HPEPL's Motivation for Mass Flow Calibration*"
 
 **From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership** \
 Patterns: Cell Press (2021) \
-[**David Gomez**](https://dbgomez94.github.io/), 
+[David Gomez](https://dbgomez94.github.io/), 
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \
@@ -112,7 +112,7 @@ Patterns: Cell Press (2021) \
 **Monte-Carlo value analysis of High-Throughput Satellites: Value levers, tradeoffs, and implications for operators and investors** \
 PLOS One (2019) \
 [Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
-[**David Gomez**](https://dbgomez94.github.io/), 
+[David Gomez](https://dbgomez94.github.io/), 
 [Yue Guan](https://www.linkedin.com/in/scottyguan/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \
@@ -124,7 +124,7 @@ PLOS One (2019) \
 **Understanding High-Throughput Satellites: Market Disruptions, Technology, and Value Analysis** \
 70th International Astronautical Congress (2019) \
 [Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
-[**David Gomez**](https://dbgomez94.github.io/), 
+[David Gomez](https://dbgomez94.github.io/), 
 [Yue Guan](https://www.linkedin.com/in/scottyguan/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \
