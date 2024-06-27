@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hi, I'm David Gomez
+title: David B. Gomez
 subtitle: MSCS-ML @ Georgia Tech | Graduating December 2024
 ---
 
