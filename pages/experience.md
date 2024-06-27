@@ -20,7 +20,7 @@ Member of the [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/
 **Graduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [**Dr. Joseph Homer Saleh**](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
+Advisor: [Dr. Joseph Homer Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
 Member of the [Space Systems Design Lab](https://ssdl.gatech.edu/)
 - Leveraged statistical learning and deep learning to improve state-of-the-art gun ownership proxy from linear R2 of 61% to 94%.
 - Developed a Monte-Carlo value analysis of High-Throughput Satellites that identified value levers, tradeoffs, and implications for operators and investors.
@@ -30,7 +30,7 @@ Member of the [Space Systems Design Lab](https://ssdl.gatech.edu/)
 **Graduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [**Dr. Mitchell L.R. Walker**](https://mwalker.gatech.edu/) \
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
 Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
 - Developed a 1-D simulation of an electric propulsion Hall thruster in MATLAB using second-order upwind schemes to evolve kinetic transport equations to examine the effect of an elongated ionization chamber on thruster performance.
 
@@ -38,7 +38,7 @@ Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatec
 **Undergraduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [**Dr. Mitchell L.R. Walker**](https://mwalker.gatech.edu/) \
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
 Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
 - Utilized LabVIEW to develop an automated mass flow calibration system for electric propulsion testing incorporating both digital and analog devices.
 
