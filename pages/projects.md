@@ -5,23 +5,26 @@ title: Projects
 
 ## Relevant Projects
 
-[**On the Relationship Between Social Media and Mental Health**](social-media-and-mental-health) \
-Literature Review (Spring 2024) \
+*Spring 2024* \
+Research Project: Social Dynamics and Well-Being Lab \
+[**On the Relationship Between Social Media and Adolescent Mental Health**](10-social-media-and-mental-health) \
 [David Gomez](https://dbgomez94.github.io/),
 [Dr. Munmun De Choudhury](http://www.munmund.net/index.html)
 \
 [PDF](/pdfs/social-media-and-mentla-health.pdf) |
 [Slides](/pdfs/social-media-and-mental-health-slides.pdf)
 
-[**Linguistic Patterns of Suicide Disclosure on Social Media: A time series clustering approach**](suicide-disclosures) \
-Research Project (Summer 2023) \
+*Summer 2023* \
+Research Project: Social Dynamics and Well-Being Lab \
+[**Linguistic Patterns of Suicide Disclosure on Social Media: A time series clustering approach**](09-suicide-disclosures) \
 [David Gomez](https://dbgomez94.github.io/)
 \
 [PDF](/pdfs/suicide-disclosures.pdf) |
 [Code]()
 
-🏆 [**Identifying Linguistic Characteristics that Differentiate Mental Health Forums on Reddit**](reddit-mental-health) \
-Term Project: Deep Learning (Fall 2023) \
+*Fall 2023* \
+Term Project: Deep Learning \
+🏆 [**Identifying Linguistic Characteristics that Differentiate Mental Health Forums on Reddit**](08-reddit-mental-health) \
 [David Gomez](https://dbgomez94.github.io/),
 [Ray Hung](https://www.linkedin.com/in/ruize-hung/?locale=en_US), 
 [Charles Nimo](https://charlesnimo.me/), 
@@ -31,9 +34,9 @@ Term Project: Deep Learning (Fall 2023) \
 [Code]() |
 [Poster]()
 
-
-[**Affective Desensitization to Public Mass Shootings on Social Media**](mass-shootings) \
-Tern Project: Social Computing (Spring 2023) \
+*Spring 2023* \
+Tern Project: Social Computing \
+[**Affective Desensitization to Public Mass Shootings on Social Media**](07-mass-shootings) \
 [David Gomez](https://dbgomez94.github.io/), 
 [Anush Mattapalli](https://www.linkedin.com/in/anush96/), 
 [Jonathan Satterfield](https://www.linkedin.com/in/jonathan-satterfield-ba0651195/), 
@@ -42,8 +45,9 @@ Tern Project: Social Computing (Spring 2023) \
 [PDF]() |
 [Code]()
 
-[**Machine learning for human trafficking: predicting types of trafficking and means of control**](human-trafficking) \
-Term Project: Data and Visual Analytics (Spring 2022) \
+*Spring 2022* \
+Term Project: Data and Visual Analytics \
+[**Machine learning for human trafficking: predicting types of trafficking and means of control**](05-human-trafficking) \
 [David Gomez](https://dbgomez94.github.io/),
 [Alexander Bendeck](https://alexanderbendeck.github.io/), 
 [Kaylee Tian](https://www.linkedin.com/in/kaylee-nianhan-tian/), 
@@ -54,25 +58,9 @@ Term Project: Data and Visual Analytics (Spring 2022) \
 [Video](https://youtu.be/GltcIuAIdTc) |
 [Website](https://alexanderbendeck.shinyapps.io/human-trafficking-app/)
 
-[**On electric propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design**](thrust-stand-uncertainty-analysis) \
-Internship Report: NASA JPL (Summer 2020) \
-[David Gomez](https://dbgomez94.github.io/) 
-\
-[PDF](https://drive.google.com/file/d/13bFrEk7PkWAY2GqFmNS_l3zvok1wE9Wj/view?usp=sharing)
-
-[**Challenging the inevitability of suicide: the effect of gun regulation on overall suicide rates and portfolio of preventative measures**](challenging-the-inevitability-of-suicide) \
-Term Project: Accident Causation and System Safety (Fall 2019) \
-[David Gomez](https://dbgomez94.github.io/),
-[Jose Sanchez](https://www.linkedin.com/in/jose-c-sanchez/),
-[Danial Baum](https://www.linkedin.com/in/daniel-baum-ae/) 
-\
-[PDF](https://drive.google.com/file/d/1eBo4348ehcbSQ8zs2ny8W4vIRXymCLcg/view?usp=sharing) |
-[Poster](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing) |
-[Slides](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
-
-## Publications
-[**From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership**](gun-ownership-proxy) \
-Patterns: Cell Press (2021) \
+*Fall 2020* \
+Journal Article: Patterns, Cell Press \
+[**From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership**](06=gun-ownership-proxy) \
 [David Gomez](https://dbgomez94.github.io/), 
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
@@ -82,24 +70,22 @@ Patterns: Cell Press (2021) \
 [DOI](https://www.cell.com/patterns/fulltext/S2666-3899(20)30202-6) |
 [PDF](pdfs/go-proxy.pdf)
 
-[**Monte-Carlo value analysis of High-Throughput Satellites: Value levers, tradeoffs, and implications for operators and investors**](hts-journal) \
-PLOS One (2019) \
-[Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
-[David Gomez](https://dbgomez94.github.io/), 
-[Yue Guan](https://www.linkedin.com/in/scottyguan/), 
-[Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
-\
-[Code](https://github.com/dbgomez94/high-throughput-satellites) |
-[DOI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222133) |
-[PDF](pdfs/hts.pdf)
 
-[**Understanding High-Throughput Satellites: Market disruptions, technology, and value analysis**](hts-conference) \
-70th International Astronautical Congress (2019) \
-[Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
-[David Gomez](https://dbgomez94.github.io/), 
-[Yue Guan](https://www.linkedin.com/in/scottyguan/), 
-[Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
+*Summer 2020* \
+Internship Report: NASA Jet Propulsion Laboratory \
+[**On electric propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design**](04-thrust-stand-uncertainty-analysis) \
+[David Gomez](https://dbgomez94.github.io/) 
 \
-[PDF](/pdfs/hts-conference.pdf) |
-[DOI](https://iafastro.directory/iac/archive/browse/IAC-19/E3/3/49731/) |
-[Slides](/pdfs/hts-slides.pdf)
+[PDF](https://drive.google.com/file/d/13bFrEk7PkWAY2GqFmNS_l3zvok1wE9Wj/view?usp=sharing)
+
+*Fall 2019* \
+Term Project: Accident Causation and System Safety \
+[**Challenging the inevitability of suicide: the effect of gun regulation on overall suicide rates and portfolio of preventative measures**](03-challenging-the-inevitability-of-suicide) \
+[David Gomez](https://dbgomez94.github.io/),
+[Jose Sanchez](https://www.linkedin.com/in/jose-c-sanchez/),
+[Danial Baum](https://www.linkedin.com/in/daniel-baum-ae/) 
+\
+[PDF](https://drive.google.com/file/d/1eBo4348ehcbSQ8zs2ny8W4vIRXymCLcg/view?usp=sharing) |
+[Poster](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing) |
+[Slides](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
+
