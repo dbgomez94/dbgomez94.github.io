@@ -60,7 +60,7 @@ Term Project: Data and Visual Analytics \
 
 *Fall 2020* \
 Journal Article: Patterns, Cell Press \
-[**From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership**](06=gun-ownership-proxy) \
+[**From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership**](06-gun-ownership-proxy) \
 [David Gomez](https://dbgomez94.github.io/), 
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
