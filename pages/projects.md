@@ -9,7 +9,7 @@ title: Projects
 Research Project: Social Dynamics and Well-Being Lab \
 [**On the Relationship Between Social Media and Adolescent Mental Health**](2024-05-01-social-media-and-mental-health) \
 [David Gomez](https://dbgomez94.github.io/),
-[Dr. Munmun De Choudhury](http://www.munmund.net/index.html)
+[Munmun De Choudhury](http://www.munmund.net/index.html)
 \
 [PDF](/pdfs/social-media-and-mentla-health.pdf) |
 [Slides](/pdfs/social-media-and-mental-health-slides.pdf)
