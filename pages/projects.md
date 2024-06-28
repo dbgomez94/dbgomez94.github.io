@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: home
 title: Projects
 ---
-
+<!-- 
 ## Relevant Projects
 
 *Spring 2024* \
@@ -88,4 +88,4 @@ Term Project: Accident Causation and System Safety \
 [PDF](https://drive.google.com/file/d/1eBo4348ehcbSQ8zs2ny8W4vIRXymCLcg/view?usp=sharing) |
 [Poster](https://drive.google.com/file/d/1ATBb5rhDqnycLfk0daZcIRXaoVfniZDy/view?usp=sharing) |
 [Slides](https://drive.google.com/file/d/14bEKiji_KDBISvT7OCuvAQOwNU6QED1U/view?usp=sharing)
-
+ -->
