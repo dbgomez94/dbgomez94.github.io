@@ -6,9 +6,9 @@ tags: [social media, mental health]
 thumbnail-img: "/assets/img/social-media-icons.png"
 ---
 
-*Spring 2024* \
-Research Project: Social Dynamics and Well-Being Lab \
 **On the Relationship Between Social Media and Adolescent Mental Health** \
+Research Project: Social Dynamics and Well-Being Lab \
+*Spring 2024* \
 [David Gomez](https://dbgomez94.github.io/),
 [Munmun De Choudhury](http://www.munmund.net/index.html)
 \
