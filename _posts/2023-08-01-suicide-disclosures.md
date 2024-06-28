@@ -3,7 +3,6 @@ layout: post
 title: Linguistic Response Patterns to Suicide Disclosures on Social Media
 subtile: A time series clustering approach
 thumbnail-img: "/assets/img/suicide-disclosures.png"
-cover-img: "/assets/img/suicide-disclosures.png"
 tags: [social media, mental health, machine learning, timeseries clustering, deep learning, classification, natural language processing]
 ---
 
