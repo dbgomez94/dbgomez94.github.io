@@ -3,7 +3,7 @@ layout: post
 title: Identifying Linguistic Characteristics that Differentiate Mental Health Forums on Reddit
 subtitle: A deep learning approach
 tags: [machine learning, deep learning, natural language processing, transformers, classification, model interpretability]
-thumbnail: "/assets/img/reddit-mental-health.png"
+thumbnail-img: "/assets/img/reddit-mental-health.png"
 ---
 
 🏆 **Identifying Linguistic Characteristics that Differentiate Mental Health Forums on Reddit** \
