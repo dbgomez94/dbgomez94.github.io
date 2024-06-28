@@ -2,8 +2,8 @@
 layout: post
 title: On the Relationship between Social Media and Adolescent Mental Health
 subtitle: A review of recent literature
-tags: [social media, mental health]
 thumbnail-img: "/assets/img/social-media-icons.png"
+tags: [social media, mental health]
 ---
 
 **On the Relationship Between Social Media and Adolescent Mental Health** \
