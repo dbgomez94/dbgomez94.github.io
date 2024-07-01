@@ -1,7 +1,7 @@
 ---
 layout: post
-title: From Project to Publication
-subtitle: Suicides, Firearms, and Proxies
+title: Suicides, Firearms, and Proxies
+subtitle: From Term Project to Publication
 thumbnail-img: "/assets/img/fsr-vs-ngl.png"
 ---
 
