@@ -5,7 +5,7 @@ layout: post
 **Understanding High-Throughput Satellites: Market Disruptions, Technology, and Value Analysis** \
 70th International Astronautical Congress (2019) \
 [Fan Geng](https://www.linkedin.com/in/fan-geng-93413958/), 
-[**David Gomez**](https://dbgomez94.github.io/), 
+[David Gomez](https://dbgomez94.github.io/), 
 [Yue Guan](https://www.linkedin.com/in/scottyguan/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \

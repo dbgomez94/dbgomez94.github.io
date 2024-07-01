@@ -1,12 +1,14 @@
 ---
 layout: post
-title: On an Improved Proxy for Gun Ownership
-subtitle: Story behind and synopsis of journal article
+title: Improving the Gun Ownership Proxy for Firearm-related Research
+subtitle: A synapsis of a journal article
 --- 
+
+---
 
 **From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership** \
 Patterns: Cell Press (2021) \
-[**David Gomez**](https://dbgomez94.github.io/), 
+[David Gomez](https://dbgomez94.github.io/), 
 [Zhaoyi Xu](https://www.linkedin.com/in/zhaoyi-xu-89789a110/), 
 [Joseph Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) 
 \
@@ -14,6 +16,8 @@ Patterns: Cell Press (2021) \
 [Code](https://github.com/dbgomez94/gun-ownership-proxy) |
 [DOI](https://www.cell.com/patterns/fulltext/S2666-3899(20)30202-6) |
 [PDF](pdfs/go-proxy.pdf)
+
+---
 
 > [!NOTE] TL;DR:
 > - In the absence of direct measurements of state-level household gun ownership, the quality and accuracy of proxy measures for this variable are essential for ﬁrearm-related research and policy development. 
