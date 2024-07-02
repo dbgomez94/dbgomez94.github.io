@@ -20,11 +20,12 @@ author: David Gomez
 ###############################################
 
 navbar-links:
+  Projects: "/pages/projects"
   Education: "/pages/education"
   Experience: "/pages/experience"
-  Projects: "/pages/projects"
   Resume: "/pdfs/resume.pdf"
   CV: "/pages/cv"
+  About: /pages/about.md
 
 
 ################
