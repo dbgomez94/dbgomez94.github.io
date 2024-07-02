@@ -3,6 +3,7 @@ layout: post
 title: Challenging the inevitability of suicide 
 subtitle: The effect of gun regulation on overall suicide rates and portfolio of preventative measures
 thumbnail-img: "/assets/img/fsr-vs-ngl.png"
+tags: [machine learning, linear regression, statistical learning]
 --- 
 
 **Challenging the inevitability of suicide: the effect of gun regulation on overall suicide rates and portfolio of preventative measures** \
