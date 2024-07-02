@@ -3,7 +3,7 @@ layout: post
 title: Uncertainty Analysis
 subtitle: A tutorial for electric propulsion thrust stands
 thumbnail-img: "assets/img/uncertainty-analysis-thumbnail.png"
-tags: [uncertainty analysis, machine learning, linear regression]
+tags: [uncertainty analysis, machine learning, linear regression, prediction intervals, electric propulsion]
 --- 
 
 
