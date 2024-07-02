@@ -18,3 +18,7 @@ During my AE BS and MS degrees, spurred by personal experiences, I became acutel
 ## Machine Learning Background
 
 After a year in the aerospace industry, I returned to GT to pursue what will be my second MS degree, this time in Computer Science with a specialization in Machine Learning. I work in the Social Dynamics and Well-Being Lab where I leverage machine and deep learning techniques to study various topics at the intersection of social media and mental health. I'm particularly interested in combatting the burden of suicide.
+
+## Hobbies / Interests / Fun Facts
+
+Outside of my studies, I enjoy reading, running, cycling, swimming, noodling around on the piano, and watching NBC's The Office. I have four siblings -- all sisters -- which automatically makes me the best brother. I compose music on the piano and guitar, although only perhaps two of my compositions are any good. I played Division II soccer in college before transferring to Georgia Tech. I ran the Atlanta Publix Marathon in 2024 and I plan to run the next one in 2025. 
