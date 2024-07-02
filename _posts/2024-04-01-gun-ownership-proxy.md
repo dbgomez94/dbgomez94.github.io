@@ -2,9 +2,10 @@
 layout: post
 title: Improving the Gun Ownership Proxy for Firearm-related Research
 subtitle: A synapsis of a journal article
+thumbnail-img: "/assets/img/go-proxy-graphical-abstract.png"
+tags: [machine learning, deep learning, statistical learning, linear regression, regression analysis, firearm, suicides]
 --- 
 
----
 
 **From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership** \
 Patterns: Cell Press (2021) \
@@ -17,7 +18,6 @@ Patterns: Cell Press (2021) \
 [DOI](https://www.cell.com/patterns/fulltext/S2666-3899(20)30202-6) |
 [PDF](pdfs/go-proxy.pdf)
 
----
 
 > [!NOTE] TL;DR:
 > - In the absence of direct measurements of state-level household gun ownership, the quality and accuracy of proxy measures for this variable are essential for ﬁrearm-related research and policy development. 
