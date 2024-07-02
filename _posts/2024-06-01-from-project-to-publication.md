@@ -27,11 +27,10 @@ Now, the notion of the inevitability of suicide implies that where there are red
 
 ![non-firearm suicides vs number of gun laws](/assets/img/nfsr-vs-ngl.png)
 
-Absolutely flat. **Statistical tests revealed that there is no statistically significant association between non-firearm suicide rates and number of gun laws.** 
+Absolutely flat. **Statistical tests revealed that there was no statistically significant association between non-firearm suicide rates and number of gun laws.** 
 
-These results directly contradict the inevitability of suicide. Measures that reduce suicides by firearms do not exacerbate suicide by other means. One interpretation of our findings is as follows. **It is not that people who live in states with fewer gun laws are more suicidal, it is that these people have access to much more lethal means.**
+These results directly contradict the inevitability of suicide. Measures that reduce suicides by firearms do not exacerbate suicide by other means. **It is not that people who live in states with fewer gun laws are more suicidal, it is that those people have access to much more lethal means.**
 
-To drive this point home, consider the following statistic: nearly 90% of people who attempt suicide *and survive* go on to live and not die by suicide. Means matter, and means reduction can save lives.
-
+I offer one final statistic to support this point: nearly 90% of people who attempt suicide *and survive* go on to live and not die by suicide. Means matter, and reducing the lethality of the method can save lives.
 
 (in progress)
