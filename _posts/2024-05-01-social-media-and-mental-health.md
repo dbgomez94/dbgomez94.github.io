@@ -12,4 +12,3 @@ Research Project: Social Dynamics and Well-Being Lab \
 [David Gomez](https://dbgomez94.github.io/) \
 [PDF](/pdfs/social-media-and-mentla-health.pdf) |
 [Slides](/pdfs/social-media-and-mental-health-slides.pdf)
-
