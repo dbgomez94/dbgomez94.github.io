@@ -67,5 +67,5 @@ Summer 2019, 2018 \
 [*NASA Jet Propulsion Laboratory*](https://www.jpl.nasa.gov/) \
 [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
-- Build a custom LabVIEW application from scratch to automate the control and data acquisition of 20 devices and over 200 channels for laboratory testing of electric propulsion devices.
+- Built a custom LabVIEW application from scratch to automate the control and data acquisition of 20 devices and over 200 channels for laboratory testing of electric propulsion devices.
 - Improved the hardware response time and sampling rate by 1 and 3 orders of magnitude, respectively.
