@@ -9,7 +9,6 @@ title: Experience
 **Graduate Research Assistant** \
 School of Interactive Computing \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Munmun De Choudhury](http://www.munmund.net/index.html) \
 Member of the [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
 - Utilized social media data and the tools of machine learning to conduct several studies surrounding individual and group mental health.
 - Collected Twitter (now X) data from Twitter's APIs and utilized unsupervised timeseries clustering techniques to identify common temporal language patterns in tweets following a dislcosure of suicidality.
