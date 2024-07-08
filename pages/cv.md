@@ -214,12 +214,6 @@ CO-PIs: Dr. Mitchell L.R. Walker, Dr. Robert Lobbia
 
 ## References
 
-[**Dr. Munmun De Choudhury**](http://www.munmund.net/index.html) \
-*Associate Professor* \
-School of Interactive Computing \
-[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-[Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
-
 [**Dr. Joseph Homer Saleh**](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
 *Associate Professor* \
 School of Aerospace Engineering \
