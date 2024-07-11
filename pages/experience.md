@@ -11,7 +11,7 @@ School of Interactive Computing \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Member of the [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
 - Utilized social media data and the tools of machine learning to conduct several studies surrounding individual and group mental health.
-- Collected Twitter (now X) data from Twitter's APIs and utilized unsupervised timeseries clustering techniques to identify common temporal language patterns in tweets following a dislcosure of suicidality.
+- Collected Twitter (now X) data from Twitter's APIs and utilized unsupervised timeseries clustering techniques to identify common temporal language patterns in tweets following a disclosure of suicidality.
 - Collected Reddit data from Reddit's APIs and utilized the Natural Language Processing and Deep Learning to differentiate language use across r/depression, r/suicidewatch, and r/stopselfharm via model interpretability techniques including SHAPley values.
 - Collected Twitter data from Twitter's APIs and utilized supervised learning techniques and hypothesis tests to argue that Americans have become desensitized to mass shootings.
 
