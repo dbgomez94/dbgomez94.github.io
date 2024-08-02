@@ -1,14 +1,12 @@
 ---
 layout: home
-title: David B Gomez
+title: DAVID BENJAMIN GOMEZ
 subtitle: MSCS-ML @ Georgia Tech | Graduating December 2024
 ---
 
 I am a Data Scientist with 4+ years of graduate research experience, across two master's degrees, applying machine learning, deep learning, and natural language processing to solve engineering, public health, and social computing problems. I am passionate about applying machine learning for social good.
 
----
-
-## Projects
+## PROJECTS
 
 ---
 
@@ -71,7 +69,9 @@ Term Project: Accident Causation and System Safety \
 [Poster](/pdfs/challenging-the-inevitability-of-suicide-poster.pdf) |
 [Slides](/pdfs/challenging-the-inevitability-of-suicide-slides.pdf)
 
-## Education
+## EDUCATION
+
+---
 
 Aug 2022 -- May 2024 \
 **M.S. in Computer Science**, *Highest Honors*, GPA: 3.9 \
@@ -93,7 +93,9 @@ Aug 2015 -- May 2018 \
 Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
 Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
 
-## Experience
+## EXPERIENCE
+
+---
 
 ### Research Experience
 
