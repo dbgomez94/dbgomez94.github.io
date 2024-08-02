@@ -6,7 +6,11 @@ subtitle: MSCS-ML @ Georgia Tech | Graduating December 2024
 
 I am a Data Scientist with 4+ years of graduate research experience, across two master's degrees, applying machine learning, deep learning, and natural language processing to solve engineering, public health, and social computing problems. I am passionate about applying machine learning for social good.
 
+---
+
 ## Projects
+
+---
 
 Jan 2024 -- May 2024 \
 **Literature Review: On the Relationship Between Social Media and Adolescent Mental Health** \
