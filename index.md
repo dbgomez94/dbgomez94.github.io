@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DAVID BENJAMIN GOMEZ
+title: DAVID B. GOMEZ
 subtitle: MSCS-ML @ Georgia Tech | Graduating December 2024
 ---
 
