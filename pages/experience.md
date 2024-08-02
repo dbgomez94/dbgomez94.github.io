@@ -3,50 +3,57 @@ layout: page
 title: Experience
 ---
 
-
 ## Research Experience
-2022-2024 \
+
+Aug 2022 -- May 2024 \
+[**Social Dynamics and Well-Being Laboratory**](https://socweb.cc.gatech.edu/) \
 **Graduate Research Assistant** \
 School of Interactive Computing \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Member of the [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
+Advisor(s): [Dr. Munmun De Choudhury](http://www.munmund.net/index.html)
 
-2021-2022 \
+Aug 2021 -- May 2022 \
+[**Space Systems Design Laboratory**](https://ssdl.gatech.edu/) \
 **Graduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Dr. Joseph Homer Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/) \
-Member of the [Space Systems Design Lab](https://ssdl.gatech.edu/)
+Advisor: [Dr. Joseph Homer Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/)
 
-2018-2020 \
+Aug 2018 -- May 2020 \
+[**High-Power Electric Propulsion Laboratory**](https://hpepl.ae.gatech.edu/) \
 **Graduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
-Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/)
 
-2017-2018 \
+May 2017 -- Aug 2018 \
+[**High-Power Electric Propulsion Laboratory**](https://hpepl.ae.gatech.edu/) \
 **Undergraduate Research Assistant** \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
-Member of the [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/)
 
 ## Industry Experience
-2020-2021 \
+Aug 2020 -- Aug 2021 \
+[**Busek Space Propulsion and Systems**](https://www.busek.com/), Natick, MA \
 **Research and Development Engineer** \
-[*Busek Space Propulsion and Systems*](https://www.busek.com/), Natick, MA \
 [Electric Propulsion Group](https://www.busek.com/) \
 Mentor(s): [Surjeet Paintal](https://www.linkedin.com/in/surjeet-paintal-5bba6a/), [Samual Sawyer](https://www.linkedin.com/in/samuel-sawyer-b8ab69a4/)
 
-Summer 2020 \
-**Graduate Electric Propulsion Intern** \
-[*NASA Jet Propulsion Laboratory*](https://www.jpl.nasa.gov/) \
+May 2020 -- Aug 2020 \
+[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
+**Electric Propulsion Graduate Intern** \
 [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
-Summer 2019, 2018 \
+May 2019 -- Aug 2019 \
+[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
 **Electric Propulsion Intern** \
-[*NASA Jet Propulsion Laboratory*](https://www.jpl.nasa.gov/) \
+[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
+Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
+
+May 2018 -- Aug 2018 \
+[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
+**Electric Propulsion Intern** \
 [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)

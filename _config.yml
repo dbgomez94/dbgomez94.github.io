@@ -21,9 +21,9 @@ author: David Gomez
 
 navbar-links:
   Resume: "/pdfs/resume.pdf"
-  Projects: "/pages/projects"
-  Experience: "/pages/experience"
-  Education: "/pages/education"
+  # Projects: "/pages/projects"
+  # Experience: "/pages/experience"
+  # Education: "/pages/education"
   # CV: "/pages/cv"
   # About: "/pages/about"
 
