@@ -20,12 +20,12 @@ author: David Gomez
 ###############################################
 
 navbar-links:
-  Projects: "/pages/projects"
-  Education: "/pages/education"
-  Experience: "/pages/experience"
   Resume: "/pdfs/resume.pdf"
-  CV: "/pages/cv"
-  About: "/pages/about"
+  Projects: "/pages/projects"
+  Experience: "/pages/experience"
+  Education: "/pages/education"
+  # CV: "/pages/cv"
+  # About: "/pages/about"
 
 #####################################
 # --- Remove blog from homepage --- #
