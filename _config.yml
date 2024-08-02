@@ -27,6 +27,12 @@ navbar-links:
   CV: "/pages/cv"
   About: "/pages/about"
 
+#####################################
+# --- Remove blog from homepage --- #
+#####################################
+
+paginate_path: "/projects/page:num/"
+
 
 ################
 # --- Logo --- #

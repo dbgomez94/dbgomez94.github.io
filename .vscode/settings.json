@@ -1,14 +1,3 @@
 {
-  "files.exclude": {
-    "tags.html": true,
-    "staticman.yml": true,
-    "LICENSE": true,
-    "index.html": true,
-    "Gemfile": true,
-    "CHANGELOG.md": true,
-    "beautiful-jekyll-theme.gemspec": true,
-    "_data": true,
-    "_includes": true,
-    "feed.xml": true
-  }
+  "files.exclude": {}
 }
