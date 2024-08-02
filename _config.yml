@@ -148,9 +148,9 @@ navbar-var-length: true
 # footer-hover-col:   "#0085A1"
 
 # light theme
-navbar-col:         "#BF616A" # "#E5E9F0"
+navbar-col:         "#E5E9F0"
 navbar-text-col:    "#3B4252"
-navbar-border-col:  "#E5E9F0"
+navbar-border-col:  "#3B4252"
 
 page-col:           "#ECEFF4"
 text-col:           "#4C566A"
