@@ -7,7 +7,7 @@ title: Education
 
 ---
 
-Aug 2022 -- May 2024 \
+Aug 2022 -- **Dec 2024** \
 **M.S. in Computer Science**, *Highest Honors*, GPA: 3.8 \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA
 - Specialization: Machine Learning
