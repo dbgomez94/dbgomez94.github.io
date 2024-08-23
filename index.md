@@ -32,6 +32,11 @@ Independent Research for Social Dynamics and Well-Being Lab \
 \
 [PDF](/pdfs/suicide-disclosures.pdf) |
 [Code]()
+<details> 
+    <summary> Summary:</summary>
+    This work contributes to our understanding of broadcasting self-disclosures on social media---specifically surrounding the highly stigmatized topic of suicidality. In particular, we assess (1) whether there are any psycholinguistic patterns post-disclosure, (2) if they reflect therapeutic benefits, and (3) if we can preempt those who would benefit from such disclosures. We analyze public Twitter data of (\users) users who have disclosed some form of suicidality. We use Linguistic Inquiry and Word Count (LIWC) along with timeseries clustering to identify temporal-psycholinguistic patterns post-disclosure. We identify two clusters that are differentiated by their use of \texttt{filler} words. The majority group (73\% of users) appears to experience therapeutic benefit in the form of significantly lower usage of filler words (i.e., higher coherence) than the other group post-disclosure. We then develop a range of machine learning and deep learning classifiers that utilize only pre-disclosure information to predict whether a user would benefit from such disclosures. We achieve modest but positive results, with our best model achieving an AUC score of 0.66 over a baseline of 0.50 and a macro F1 score of 0.64 over a baseline of 0.50---indicating that there is some predictive information in the language pre-disclosure that can preempt whether someone would receive therapeutic benefit from broadcasting self-disclosures. We discuss the implications of our findings for designing new intervention strategies that can improve support provisions for those who disclose suicidality on social media.
+</details>
+<br>
 
 Jan 2022 -- May 2022 \
 **Affective Desensitization to Public Mass Shootings on Social Media** \
