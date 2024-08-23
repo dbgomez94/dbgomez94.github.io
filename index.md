@@ -13,11 +13,21 @@ Aerospace engineer-turned-data scientist specializing in machine learning with a
 ---
 
 Jan 2024 -- May 2024 \
-**Literature Review: On the Relationship Between Social Media and Adolescent Mental Health** \
+**[Literature Review: On the Relationship Between Social Media and Adolescent Mental Health]()** \
 Independent Research for Social Dynamics and Well-Being Lab \
 [David Gomez](https://dbgomez94.github.io/) \
 [PDF](/pdfs/social-media-and-mentla-health.pdf) |
 [Slides](/pdfs/social-media-and-mental-health-slides.pdf)
+
+<a href="https://dbgomez94.github.io/">
+    <img src="assets/img/social-media-icons.png" width="400">
+</a>
+<details>
+<summary>Abstract:</summary>
+
+Content here
+
+</details>
 
 
 Jan 2023 -- Dec 2023 \
