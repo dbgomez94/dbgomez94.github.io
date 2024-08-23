@@ -42,8 +42,6 @@ School of Aerospace Engineering \
 Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/)
 - Supported laboratory testing of electric propulsion devices for external customers.
 
-<br>
-
 ### Industry Experience
 
 Aug 2020 -- Aug 2021 \
