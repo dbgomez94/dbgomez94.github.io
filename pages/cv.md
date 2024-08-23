@@ -88,7 +88,7 @@ Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 
 2019 \
 [**NSTRF: NASA Space Technology Research Fellowship**](https://arc.net/l/quote/uhcyyzry) \
-For "*Development of a highly throttlable, bipropellant (Xe-Kr) Hall thruster and investigations into the newly discovered oscillation modes in magnetically shielded thrusters*"
+For "*Development of a highly throttleable, bipropellant (Xe-Kr) Hall thruster and investigations into the newly discovered oscillation modes in magnetically shielded thrusters*"
 
 2018 \
 [**Outstanding Undergraduate Researcher Award**](https://ae.gatech.edu/news/2018/04/ae-undergraduate-research-award-goes-david-b-gomez) \

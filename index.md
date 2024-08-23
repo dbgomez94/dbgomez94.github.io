@@ -4,7 +4,9 @@ title: DAVID B. GOMEZ
 subtitle: MSCS-ML @ Georgia Tech | Graduating December 2024
 ---
 
-I am a Data Scientist with 4+ years of graduate research experience, across two master's degrees, applying machine learning, deep learning, and natural language processing to solve engineering, public health, and social computing problems. I am passionate about applying machine learning for social good.
+Aerospace engineer-turned-data scientist specializing in machine learning with a passion for developing data-driven solutions to societal issues and public health research.
+
+<br>
 
 ## PROJECTS
 
@@ -69,29 +71,35 @@ Term Project: Accident Causation and System Safety \
 [Poster](/pdfs/challenging-the-inevitability-of-suicide-poster.pdf) |
 [Slides](/pdfs/challenging-the-inevitability-of-suicide-slides.pdf)
 
+<br>
+
 ## EDUCATION
 
 ---
 
 Aug 2022 -- May 2024 \
-**M.S. in Computer Science**, *Highest Honors*, GPA: 3.9 \
-Specialization: Machine Learning \
+**M.S. in Computer Science**, *Highest Honors*, GPA: 3.8 \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Munmun De Choudhury](http://www.munmund.net/index.html) \
-Affiliations: [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
+- Specialization: Machine Learning
+- Advisor: [Munmun De Choudhury](http://www.munmund.net/index.html)
+- Affiliations: [Social Dynamics and Well-Being Lab](https://socweb.cc.gatech.edu/)
+- Coursework: Mathematical Foundations of Machine Learning, Deep Learning, Artificial Intelligence, Computational Data Analytics, Data and Visual Analytics, Probabilistic Graphical Models, Convex Optimization, Social Computing, Numerical Linear Algebra, Graduate Algorithms, Modeling and Simulation, Regression Analysis
 
 Aug 2018 -- May 2020 \
 **M.S. in Aerospace Engineering**, *Highest Honors*, GPA: 3.7 \
-Specialization: Electric Propulsion \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
-Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+- Specialization: Electric Propulsion
+- Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/)
+- Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/), [Space Systems Design Laboratory](https://ssdl.gatech.edu/)
+- Coursework: Electric Propulsion, Rocket Propulsion, Accident Causation and System Safety, Viscous Fluid Flow, Kinetics & Thermodynamics of Gases, Numerical Analysis and Algorithms, Statistical Mechanics, Numerical Methods in Ordinary Differential Equations
 
 Aug 2015 -- May 2018 \
 **B.S. in Aerospace Engineering**, *Highest Honors*, GPA: 3.6 \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
-Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/) \
-Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+- Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/)
+- Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+
+<br>
 
 ## EXPERIENCE
 
@@ -105,6 +113,7 @@ Aug 2022 -- May 2024 \
 School of Interactive Computing \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Advisor(s): [Dr. Munmun De Choudhury](http://www.munmund.net/index.html)
+- Applied machine learning, deep learning, and natural language processing to address research questions at the intersection of social media and mental health.
 
 Aug 2021 -- May 2022 \
 [**Space Systems Design Laboratory**](https://ssdl.gatech.edu/) \
@@ -112,6 +121,7 @@ Aug 2021 -- May 2022 \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Advisor: [Dr. Joseph Homer Saleh](https://www.linkedin.com/in/joseph-homer-saleh-8b8773119/)
+- Conducted reliability analysis of CubeSat subsystems using Kaplan-Meier curves and time-to-failure distributions.
 
 Aug 2018 -- May 2020 \
 [**High-Power Electric Propulsion Laboratory**](https://hpepl.ae.gatech.edu/) \
@@ -119,6 +129,8 @@ Aug 2018 -- May 2020 \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/)
+- Conducted 1D simulations of Hall-effect thrusters to examing performance impact of elongated ionization chambers.
+
 
 May 2017 -- Aug 2018 \
 [**High-Power Electric Propulsion Laboratory**](https://hpepl.ae.gatech.edu/) \
@@ -126,6 +138,9 @@ May 2017 -- Aug 2018 \
 School of Aerospace Engineering \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA \
 Advisor: [Dr. Mitchell L.R. Walker](https://mwalker.gatech.edu/)
+- Supported laboratory testing of electric propulsion devices for external customers.
+
+<br>
 
 ### Industry Experience
 
@@ -134,21 +149,19 @@ Aug 2020 -- Aug 2021 \
 **Research and Development Engineer** \
 [Electric Propulsion Group](https://www.busek.com/) \
 Mentor(s): [Surjeet Paintal](https://www.linkedin.com/in/surjeet-paintal-5bba6a/), [Samual Sawyer](https://www.linkedin.com/in/samuel-sawyer-b8ab69a4/)
+- Supported laboratory testing and data acquisition of electric propulsion (EP) devices for spaceflight qualification
+- Developed a custom LabVIEW applications to automate the acquisition Hall-effect thruster magnetic field profiles and other plasma diagnostics
 
 May 2020 -- Aug 2020 \
 [**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
 **Electric Propulsion Graduate Intern** \
 [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
+- Developed an uncertainty analysis procedure for EP thrust stands using linear regression and prediction intervals
 
-May 2019 -- Aug 2019 \
+May -- Aug 2018, 2019 \
 [**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
-**Electric Propulsion Intern** \
+**Electric Propulsion Intern (x2)** \
 [Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
 Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
-
-May 2018 -- Aug 2018 \
-[**NASA Jet Propulsion Laboratory**](https://www.jpl.nasa.gov/), Pasadena, CA \
-**Electric Propulsion Intern** \
-[Electric Propulsion Group](https://www.jpl.nasa.gov/go/epl) \
-Mentor(s): [Dr. Robert Lobbia](https://www.linkedin.com/in/lobbia/)
+- Built a custom LabVIEW application for JPL’s primary EP testing facility that synchronized the control and data acquisition of 20 devices improving the latency and sampling rate by 1 and 3 orders of magnitude, respectively
