@@ -48,6 +48,11 @@ Tern Project: Social Computing \
 \
 [PDF]() |
 [Code]()
+<details>
+    <summary>Summary:</summary>
+    WIP
+</details>
+<br>
 
 May 2020 -- Aug 2020 \
 **On electric propulsion thrust stands: comprehensive uncertainty analysis and modernized conceptual design** \
@@ -56,6 +61,11 @@ Internship Report: NASA Jet Propulsion Laboratory \
 [Robert Lobbia](https://www.linkedin.com/in/lobbia/)
 \
 [PDF](/pdfs/uncertainty-analysis.pdf)
+<details>
+    <summary>Summary:</summary>
+    WIP
+</details>
+<br>
 
 Jan 2020 -- Dec 2020 \
 **From regression analysis to deep learning: development of improved proxy measures of state-level household gun ownership** \
@@ -68,6 +78,11 @@ Patterns: Cell Press (2021) \
 [Code](https://github.com/dbgomez94/gun-ownership-proxy) |
 [DOI](https://www.cell.com/patterns/fulltext/S2666-3899(20)30202-6) |
 [PDF](pdfs/go-proxy.pdf)
+<details>
+    <summary>Summary:</summary>
+    WIP
+</details>
+<br>
 
 Aug 2019 -- Dec 2019 \
 **Challenging the inevitability of suicide: the effect of gun regulation on overall suicide rates and portfolio of preventative measures** \
@@ -80,5 +95,9 @@ Term Project: Accident Causation and System Safety \
 [PDF](/pdfs/challenging-the-inevitability-of-suicide-report.pdf) |
 [Poster](/pdfs/challenging-the-inevitability-of-suicide-poster.pdf) |
 [Slides](/pdfs/challenging-the-inevitability-of-suicide-slides.pdf)
-
+<details>
+    <summary>Summary:</summary>
+    WIP
+</details>
+<br>
 
