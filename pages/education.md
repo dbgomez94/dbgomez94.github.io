@@ -28,3 +28,8 @@ Aug 2015 -- May 2018 \
 [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA
 - Advisor: [Mitchell L.R. Walker](https://mwalker.gatech.edu/)
 - Affiliations: [High-Power Electric Propulsion Laboratory](https://hpepl.ae.gatech.edu/)
+
+Aug 2013 -- May 2015 \
+**Regents' Engineering Transfer Program**, GPA: 3.9 \
+[Georgia Southwestern State University](https://www.gsw.edu/), Americus, GA
+- Affiliations: [NCAA Division II Men's Soccer Team](https://www.gswcanes.com/sports/msoc/2014-15/roster)
